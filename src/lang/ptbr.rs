@@ -43,7 +43,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("allowed characters", "caracteres permitidos"),
         ("id_change_tip", "Somente os caracteres a-z, A-Z, 0-9 e _ (sublinhado) são permitidos. A primeira letra deve ser a-z, A-Z. Comprimento entre 6 e 16."),
         ("Website", "Website"),
-        ("About", "Sobre"),
+        ("About", "Sobre Teste"),
         ("Slogan_tip", "Feito de coração neste mundo caótico!"),
         ("Privacy Statement", "Declaração de Privacidade"),
         ("Mute", "Desativar som"),
